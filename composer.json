@@ -7,5 +7,7 @@
             "email": "innocent.zero@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "respect/validation": "^1.1"
+    }
 }
