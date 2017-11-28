@@ -1,0 +1,11 @@
+{
+    "name": "gouf/form_validation_demo",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "gouf",
+            "email": "innocent.zero@gmail.com"
+        }
+    ],
+    "require": {}
+}
